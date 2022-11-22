@@ -1,4 +1,4 @@
-[![MasterHead]([https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/04a6618c-298b-408e-bf54-7f3ffd2d0917/d6lw0ik-6eb3100d-2a89-4798-9bfc-ce985c6f16af.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzA0YTY2MThjLTI5OGItNDA4ZS1iZjU0LTdmM2ZmZDJkMDkxN1wvZDZsdzBpay02ZWIzMTAwZC0yYTg5LTQ3OTgtOWJmYy1jZTk4NWM2ZjE2YWYucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.gQ1GD9W8m9CyaGfLEX9qwOu5_M9bvVIv7DeOTaONMmQ](https://i.pinimg.com/736x/a4/0c/07/a40c07636807774d6ef7be7944ecc162.jpg))](https://shivangs107.io)
+[![MasterHead](https://i.pinimg.com/736x/a4/0c/07/a40c07636807774d6ef7be7944ecc162.jpg)](https://shivangs107.io)
 <h1 align="center">Kon'nichiwa 👋, I'm Shivang Shukla</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxJH67NvHV91hm7f01rOhI4IcfGW3qpa8PBw&usqp=CAU"
